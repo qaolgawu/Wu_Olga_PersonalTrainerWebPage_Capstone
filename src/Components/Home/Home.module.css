@@ -1,0 +1,10 @@
+.container{
+    display: flex;
+    padding: 50px;
+    justify-content: space-between;
+    align-items: center ;
+}
+
+.home__title{
+    margin-bottom: 50-px;
+}

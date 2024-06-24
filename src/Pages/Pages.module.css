@@ -1,0 +1,72 @@
+.container{
+    display: flex;
+    padding: 50px;
+    justify-content: space-between;
+    align-items: center ;
+    flex-wrap: wrap;
+    gap: 50px;
+}
+
+.step__container{
+    display: flex;
+    flex-direction: column;
+    gap: 10px; 
+}
+.recipe{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.recipe img{
+    width: 600px;
+}
+
+.overLay{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+    padding: 30px 0;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    background-color: black;
+    border: solid 2px silver;
+    padding: 25px;
+    border-radius: 6px;
+    max-width: 400px;
+
+}
+.form * {
+    color: white;
+    
+}
+
+.input{
+    border: solid 2px silver;
+    background-color: black;
+    font-size: 20px;
+    padding: 5px 10px;
+}
+
+.button{
+    background-color: black;
+    padding: 5px;
+    font-size: 20px;
+    margin-top: 20px;
+    border: solid 2px silver;
+}
+
+.overLay a{
+    color: blue;
+
+}
+.textErr{
+    color: red
+}

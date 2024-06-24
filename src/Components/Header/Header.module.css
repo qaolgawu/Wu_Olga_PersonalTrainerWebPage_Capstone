@@ -1,0 +1,33 @@
+.header {
+    padding: 30px 50px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(25, 25, 25);
+    align-items: center;
+}
+
+.options{
+    display: flex;
+    gap: 50px;
+}
+
+.header__logo{
+    font-size: 50px;
+}
+.navbar {
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+}
+
+.navbar-item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 30px;
+    color:aliceblue;
+    text-decoration: inherit;
+    text-transform: uppercase;
+    outline: none;
+}

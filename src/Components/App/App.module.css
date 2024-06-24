@@ -1,0 +1,8 @@
+.wrapper{
+    min-width: 1400px;
+    background-color: rgb(18, 15, 16);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
