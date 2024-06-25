@@ -5,7 +5,7 @@ export default function Footer() {
     return (
         <div className={style.footer}>
             <div className={style.container}>
-                <a href="" className={style.logo}>LOGO</a>
+                <p className={style.logo}>LOGO</p>
                 <p className={style.text}>
                     1213 Jerde WalkStreet North Avenue,
                     California
@@ -13,14 +13,14 @@ export default function Footer() {
                 </p>
             </div>
             <div className={style.container__link}>
-                <a href="" className={style.link}>Link</a>
-                <a href="" className={style.link}>Link</a>
-                <a href="" className={style.link}>Link</a>
-                <a href="" className={style.link}>Link</a>
-                <a href="" className={style.link}>Link</a>
-                <a href="" className={style.link}>Link</a>
-                <a href="" className={style.link}>Link</a>
-                <a href="" className={style.link}>Link</a>
+                <p className={style.link}>Link</p>
+                <p className={style.link}>Link</p>
+                <p className={style.link}>Link</p>
+                <p className={style.link}>Link</p>
+                <p className={style.link}>Link</p>
+                <p className={style.link}>Link</p>
+                <p className={style.link}>Link</p>
+                <p className={style.link}>Link</p>
             </div>
         </div>
     )

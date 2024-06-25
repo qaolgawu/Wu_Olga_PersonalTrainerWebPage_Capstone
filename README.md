@@ -1,26 +1,3 @@
-# Capstone Project Title 
-Personal Trainer WebPage Capstone
-
-Project Summary 
-
-An application for a personal trainer Yulia
-Built with React, JavaScript and CSS.
-
-Project Status 
-
-This project is currently in development.User can see Home page and Recipe page.
-User can Sign In and Log In.
-
-## Links
-
-[Deployed Capstone Frontend  Netlify Link](<LINKGOESHERE>)
-
-[Capstone Backend Github Link](<LINKGOESHERE>)
-
-[Deployed Capstone Backend Render Link](<LINKGOESHERE>)
-
-
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

@@ -7,7 +7,7 @@ import style from './Header.module.css'
 
     return( 
     <section className={style.header}>
-                <a href="/" className={style.header__logo}>LOGO</a>
+                <p className={style.header__logo}>LOGO</p>
                 <Navbar />
         <section className={style.options}>
             <section>
