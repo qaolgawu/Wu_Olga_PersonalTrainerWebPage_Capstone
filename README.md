@@ -1,3 +1,21 @@
+# Capstone Project Title 
+Personal trainer Web Page
+
+Project Summary 
+
+
+
+
+## Links
+
+[Deployed Capstone Frontend  Netlify Link](<https://personaltrainerwebpage.netlify.app>)
+
+[Capstone Backend Github Link](<https://github.com/qaolgawu/Capstone-Backend-Github-Link>)
+
+[Deployed Capstone Backend Render Link](<https://capstone-backend-github-link.onrender.com>)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
