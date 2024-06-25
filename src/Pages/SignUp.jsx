@@ -31,7 +31,7 @@ export default function SignUpPage() {
                 <label htmlFor="password">Password:</label>
                 <input className={style.input} name='password' onInput={(e) => setForm({...form, [e.target.name]: e.target.value})}  type="password" placeholder="Password" />
                 <p className={style.textErr}>{err}</p>
-                <button className={style.button}>Sign In</button>
+                <button className={style.button}>Sign Up</button>
             </form>
         </div>
     )
