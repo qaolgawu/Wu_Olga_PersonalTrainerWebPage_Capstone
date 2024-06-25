@@ -10,7 +10,7 @@ export default function RecipePage(){
     useEffect(() => {
         RecipeApi.getRecipe(id)
             .then(data => setRecipe(data))
-    }, [])
+    }, [id])
 
     return <div className={style.container}>
 
