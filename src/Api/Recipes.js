@@ -37,4 +37,4 @@ export default class RecipeApi {
     }
 }
 
-const url = 'http://localhost:3000'
+const url = 'https://capstone-backend-github-link.onrender.com'
